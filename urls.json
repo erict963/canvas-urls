@@ -1,0 +1,482 @@
+[
+  {
+    "school": "Rutgers University",
+    "url": "https://rutgers.instructure.com"
+  },
+  {
+    "school": "University Of California, Los Angeles",
+    "url": "https://bruinlearn.ucla.edu"
+  },
+  {
+    "school": "Ohio State University",
+    "url": "https://osu.instructure.com"
+  },
+  {
+    "school": "Pennsylvania State University",
+    "url": "https://psu.instructure.com"
+  },
+  {
+    "school": "Texas A&M University",
+    "url": "https://canvas.tamu.edu"
+  },
+  {
+    "school": "Arizona State University",
+    "url": "https://canvas.asu.edu"
+  },
+  {
+    "school": "University Of Alabama, Huntsville",
+    "url": "https://uah.instructure.com"
+  },
+  {
+    "school": "University Of Minnesota-Twin Cities",
+    "url": "https://canvas.umn.edu"
+  },
+  {
+    "school": "Indiana University",
+    "url": "https://iu.instructure.com"
+  },
+  {
+    "school": "University Of Maryland, College Park",
+    "url": "https://umd.instructure.com"
+  },
+  {
+    "school": "University Of Texas",
+    "url": "https://utexas.instructure.com"
+  },
+  {
+    "school": "Virginia Tech",
+    "url": "https://canvas.vt.edu"
+  },
+  {
+    "school": "University Of Washington",
+    "url": "https://canvas.uw.edu"
+  },
+  {
+    "school": "Northern Virginia Community College",
+    "url": "https://nvcc.instructure.com"
+  },
+  {
+    "school": "University Of Alabama",
+    "url": "https://uab.instructure.com"
+  },
+  {
+    "school": "University Of California, Santa Cruz",
+    "url": "https://canvas.ucsc.edu"
+  },
+  {
+    "school": "Sacramento City College",
+    "url": "https://lrccd.instructure.com"
+  },
+  {
+    "school": "University Of Michigan",
+    "url": "https://umich.instructure.com"
+  },
+  {
+    "school": "Florida State University",
+    "url": "https://fsu.instructure.com"
+  },
+  {
+    "school": "Montclair State University",
+    "url": "https://montclair.instructure.com"
+  },
+  {
+    "school": "Texas Tech University",
+    "url": "https://texastech.instructure.com"
+  },
+  {
+    "school": "University Of California, Irvine",
+    "url": "https://canvas.eee.uci.edu"
+  },
+  {
+    "school": "Temple University",
+    "url": "https://canvas.temple.edu"
+  },
+  {
+    "school": "California State University, Fullerton",
+    "url": "https://canvas.fullerton.edu"
+  },
+  {
+    "school": "California State University, Long Beach",
+    "url": "https://csulb.instructure.com"
+  },
+  {
+    "school": "University Of California, San Diego",
+    "url": "https://canvas.ucsd.edu"
+  },
+  {
+    "school": "Georgia Institute Of Technology",
+    "url": "https://gatech.instructure.com"
+  },
+  {
+    "school": "California State University, Northridge",
+    "url": "https://canvas.csun.edu"
+  },
+  {
+    "school": "University Of California, Berkeley",
+    "url": "https://ucberkeley.instructure.com"
+  },
+  {
+    "school": "University Of Nebraska, Lincoln",
+    "url": "https://canvas.unl.edu"
+  },
+  {
+    "school": "Louisiana State University",
+    "url": "https://lsu.instructure.com"
+  },
+  {
+    "school": "Northeastern University",
+    "url": "https://northeastern.instructure.com"
+  },
+  {
+    "school": "George Mason University",
+    "url": "https://canvas.gmu.edu"
+  },
+  {
+    "school": "University Of Cincinnati, Main Campus",
+    "url": "https://uc.instructure.com"
+  },
+  {
+    "school": "University Of Florida",
+    "url": "https://ufl.instructure.com"
+  },
+  {
+    "school": "Case Western Reserve University",
+    "url": "https://canvas.case.edu"
+  },
+  {
+    "school": "Loyola Marymount University",
+    "url": "// Loyola Marymount University uses brightspace"
+  },
+  {
+    "school": "City College Of San Francisco",
+    "url": "https://ccsf.instructure.com"
+  },
+  {
+    "school": "University Of Central Florida",
+    "url": "https://webcourses.ucf.edu"
+  },
+  {
+    "school": "Southern Methodist University",
+    "url": "https://smucommons.instructure.com"
+  },
+  {
+    "school": "Mercer University",
+    "url": "https://merceru.instructure.com"
+  },
+  {
+    "school": "Saint Joseph's University",
+    "url": "https://sju.instructure.com"
+  },
+  {
+    "school": "University Of Utah",
+    "url": "https://utah.instructure.com"
+  },
+  {
+    "school": "San Jose State University",
+    "url": "https://sjsu.instructure.com"
+  },
+  {
+    "school": "Moorpark College",
+    "url": "https://vcccd.instructure.com"
+  },
+  {
+    "school": "University Of Delaware",
+    "url": "https://udel.instructure.com"
+  },
+  {
+    "school": "Lone Star College",
+    "url": "// Lone Star College uses D2L Brightspace"
+  },
+  {
+    "school": "Bellevue College",
+    "url": "https://bc.instructure.com"
+  },
+  {
+    "school": "Florida International University",
+    "url": "https://fiu.instructure.com"
+  },
+  {
+    "school": "Cypress College",
+    "url": "https://cypresscollege.instructure.com"
+  },
+  {
+    "school": "Rowan University",
+    "url": "https://canvas.rowan.edu"
+  },
+  {
+    "school": "Middlesex Community College",
+    "url": "https://middlesexcc.instructure.com"
+  },
+  {
+    "school": "University Of California, Riverside",
+    "url": "https://elearn.ucr.edu"
+  },
+  {
+    "school": "Stevens Institute Of Technology",
+    "url": "// Stevens Institute Of Technology too hard to find"
+  },
+  {
+    "school": "California Polytechnic State University, Pomona",
+    "url": "https://canvas.calpoly.edu"
+  },
+  {
+    "school": "Clemson University",
+    "url": "https://clemson.instructure.com"
+  },
+  {
+    "school": "University Of Houston",
+    "url": "https://canvas.uh.edu"
+  },
+  {
+    "school": "Seton Hall University",
+    "url": "https://setonhall.instructure.com"
+  },
+  {
+    "school": "Cosumnes River College",
+    "url": "// Cosumnes River College uses lrccd.instructure.com too"
+  },
+  {
+    "school": "California Polytechnic State University, San Luis Obispo",
+    "url": "// California Polytechnic State University, San Luis Obispo uses canvas.calpoly.edu too"
+  },
+  {
+    "school": "University Of Nevada, Las Vegas",
+    "url": "https://unlv.instructure.com"
+  },
+  {
+    "school": "California State University, Sacramento",
+    "url": "https://csus.instructure.com"
+  },
+  {
+    "school": "California State University, Los Angeles",
+    "url": "https://calstatelapage.instructure.com"
+  },
+  {
+    "school": "Tarrant County College",
+    "url": "https://canvas.tccd.edu"
+  },
+  {
+    "school": "University Of North Carolina, Chapel Hill",
+    "url": "https://uncch.instructure.com"
+  },
+  {
+    "school": "ATA Career Education",
+    "url": "https://atacollege.instructure.com"
+  },
+  {
+    "school": "Baylor University",
+    "url": "https://baylor.instructure.com"
+  },
+  {
+    "school": "Purdue University",
+    "url": "https://purdue.instructure.com"
+  },
+  {
+    "school": "Pasadena City College",
+    "url": "https://canvas.pasadena.edu"
+  },
+  {
+    "school": "Auburn University",
+    "url": "https://auburn.instructure.com"
+  },
+  {
+    "school": "University Of North Texas",
+    "url": "https://unt.instructure.com"
+  },
+  {
+    "school": "De Anza College",
+    "url": "https://deanza.instructure.com"
+  },
+  {
+    "school": "Adelphi University",
+    "url": "// Adelphi University uses eCampus"
+  },
+  {
+    "school": "Colorado State University Fort Collins",
+    "url": "https://colostate.instructure.com"
+  },
+  {
+    "school": "Southeastern Louisiana University",
+    "url": "https://southeastern.instructure.com"
+  },
+  {
+    "school": "South Louisiana Community College",
+    "url": "https://solacc.instructure.com"
+  },
+  {
+    "school": "Irvine Valley College",
+    "url": "https://canvas.socccd.edu"
+  },
+  {
+    "school": "Nova Southeastern University",
+    "url": "https://nsu.instructure.com"
+  },
+  {
+    "school": "Houston Community College",
+    "url": "https://eagleonline.hccs.edu"
+  },
+  {
+    "school": "University Of Kansas",
+    "url": "https://canvas.ku.edu"
+  },
+  {
+    "school": "Glendale Community College",
+    "url": "https://gcc.instructure.com"
+  },
+  {
+    "school": "Los Angeles Valley College",
+    "url": "https://ilearn.laccd.edu"
+  },
+  {
+    "school": "Virginia Commonwealth University",
+    "url": "https://virginiacommonwealth.instructure.com"
+  },
+  {
+    "school": "University Of Kentucky",
+    "url": "https://uk.instructure.com"
+  },
+  {
+    "school": "Boston College",
+    "url": "https://bostoncollege.instructure.com"
+  },
+  {
+    "school": "University Of Oregon",
+    "url": "https://canvas.uoregon.edu"
+  },
+  {
+    "school": "University Of Southern California",
+    "url": "https://usc.instructure.com"
+  },
+  {
+    "school": "University Of California, Santa Barbara",
+    "url": "https://ucsb.instructure.com"
+  },
+  {
+    "school": "Kent State University",
+    "url": "https://kentlearns.instructure.com"
+  },
+  {
+    "school": "Colorado School Of Mines",
+    "url": "https://elearning.mines.edu"
+  },
+  {
+    "school": "University Of Arizona",
+    "url": "// University of Arizona uses d2l brightspace"
+  },
+  {
+    "school": "A.T. Still University",
+    "url": "https://atsu.instructure.com/"
+  },
+  {
+    "school": "James Madison University",
+    "url": "https://jmu.instructure.com/"
+  },
+  {
+    "school": "University Of New Haven",
+    "url": "https://newhaven.instructure.com/"
+  },
+  {
+    "school": "Abilene Christian University",
+    "url": "https://aculearning.instructure.com/"
+  },
+  {
+    "school": "Howard Community College",
+    "url": "https://howardcc.instructure.com/"
+  },
+  {
+    "school": "University Of Michigan, Dearborn",
+    "url": "https://canvas.umd.umich.edu/"
+  },
+  {
+    "school": "University Of California, Davis",
+    "url": "https://canvas.ucdavis.edu/"
+  },
+  {
+    "school": "Lake-Sumter State College",
+    "url": "https://lssc.instructure.com/"
+  },
+  {
+    "school": "University Of Pittsburgh",
+    "url": "https://pittprofessional.instructure.com/"
+  },
+  {
+    "school": "Prairie View A&M University",
+    "url": "https://ecourses.pvamu.edu/"
+  },
+  {
+    "school": "CUNY Borough Of Manhattan Community College",
+    "url": "// CUNY Borough Of Manhattan Community College uses d2l brightspace"
+  },
+  {
+    "school": "California State University, Chico",
+    "url": "https://canvas.csuchico.edu/"
+  },
+  {
+    "school": "University Of Georgia",
+    "url": "https://uga.instructure.com/"
+  },
+  {
+    "school": "St. John's University",
+    "url": "https://stjohnschs.instructure.com/"
+  },
+  {
+    "school": "Michigan Technological University",
+    "url": "https://mtu.instructure.com/"
+  },
+  {
+    "school": "East Carolina University",
+    "url": "https://ecu.instructure.com/"
+  },
+  {
+    "school": "Miami University",
+    "url": "https://miamioh.instructure.com/"
+  },
+  {
+    "school": "Imperial Valley College",
+    "url": "https://imperial.instructure.com/"
+  },
+  {
+    "school": "Iowa State University",
+    "url": "https://iastate.instructure.com/"
+  },
+  {
+    "school": "Salt Lake Community College",
+    "url": "https://slcc.instructure.com/"
+  },
+  {
+    "school": "Ramapo College Of New Jersey",
+    "url": "https://ramapo.instructure.com/"
+  },
+  {
+    "school": "University Of Miami",
+    "url": "https://miami.instructure.com"
+  },
+  {
+    "school": "Saint Peter's University",
+    "url": "// Saint Peter's University uses blackboard"
+  },
+  {
+    "school": "Fairleigh Dickinson University",
+    "url": "// Fairleigh Dickinson University uses blackboard"
+  },
+  {
+    "school": "University Of Texas, Dallas",
+    "url": "https://utdallas.instructure.com/"
+  },
+  {
+    "school": "San Diego State University",
+    "url": "https://sdsu.instructure.com/"
+  },
+  {
+    "school": "Highline College",
+    "url": "https://canvas.highline.edu/"
+  },
+  {
+    "school": "New York Institute Of Technology",
+    "url": "https://nyit.instructure.com/"
+  },
+  {
+    "school": "American River College",
+    "url": "// American River College uses lrccd.instructure.com too"
+  }
+]
