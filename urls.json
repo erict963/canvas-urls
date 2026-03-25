@@ -478,5 +478,9 @@
   {
     "school": "American River College",
     "url": "// American River College uses lrccd.instructure.com too"
+  },
+  {
+    "school": "University Of Pittsburgh",
+    "url": "https://canvas.pitt.edu"
   }
 ]
