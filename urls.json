@@ -482,5 +482,9 @@
   {
     "school": "University Of Pittsburgh",
     "url": "https://canvas.pitt.edu"
+  },
+  {
+    "school": "University Of Massachusetts, Boston",
+    "url": "https://umassboston.instructure.com"
   }
 ]
