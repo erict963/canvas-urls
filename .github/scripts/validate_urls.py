@@ -63,8 +63,8 @@ def validate_urls_json(file_path: str) -> bool:
                 errors.append(f"Entry {idx}: 'url' must be a string, got {type(url).__name__}")
             elif not url.strip():
                 errors.append(f"Entry {idx}: 'url' cannot be empty")
-            elif not url.startswith(('http://', 'https://')):
-                errors.append(f"Entry {idx}: 'url' must start with http:// or https://")
+            elif not url.startswith(('http://', 'https://', '//')): # comments allowed
+                errors.append(f"Entry {idx}: 'url' must start with http://, https://, or //")
         
         # Report results
         if errors:
